@@ -46,10 +46,7 @@ The system follows a Retrieval-Augmented Generation (RAG) pipeline to ensure all
 
 ### 1. Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/IEA-SIH1706.git
-cd IEA-SIH1706
+```
 
 # Install dependencies
 pip install -r requirements.txt
